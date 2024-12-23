@@ -13,9 +13,9 @@
 - **ORM:** Prisma  
 - **State Management:** Redux  
 
-## Screenshots of the Application
+## Screenshots of the application
 
-![Application Screenshot](https://user-images.githubusercontent.com/<unique-id>/<image-name>.png)
+![image](https://github.com/user-attachments/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
 
 
 ---
