@@ -37,68 +37,60 @@ Follow these steps to set up and run the application on your local machine:
 ### Clone the Repository
 ```bash
 git clone https://github.com/abhijha910/Instinctive-Full-Stack-task-main.git
-
-
-
-Go to the project directory
-
-```bash
-  cd Instinctive-studio-task
 ```
 
-
-Go to the backend directory
-
+### Navigate to the Project Directory
 ```bash
-  cd server
+cd Instinctive-Full-Stack-task-main
 ```
 
-Install dependencies
+## Backend Setup
 
-```bash
-  npm install
-```
+1. Navigate to the backend directory:
+   ```bash
+   cd server
+   ```
 
-Start the server
+2. Install backend dependencies:
+   ```bash
+   npm install
+   ```
 
-```bash
-  npm start
-```
+3. Start the backend server:
+   ```bash
+   npm start
+   ```
 
-Go to the frontend directory
+## Frontend Setup
 
-```bash
-  cd client
-```
+1. Navigate to the frontend directory:
+   ```bash
+   cd client
+   ```
 
-Install dependencies
+2. Install frontend dependencies:
+   ```bash
+   npm install
+   ```
 
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
+3. Start the frontend server:
+   ```bash
+   npm run dev
+   ```
 
 ## Environment Variables
-For Server:
-MongoDB Database URL 
+
+Make sure the following environment variables are set correctly for both the backend and frontend:
+
+### For Backend:
 ```bash
-DATABASE_URL
+DATABASE_URL=MongoDB connection URL
+DIRECT_URL=Direct connection URL for Prisma
+CORS_ORIGIN=Allowed origins for Cross-Origin Resource Sharing
+PORT=Port for the backend server
 ```
+
+### For Frontend:
 ```bash
-DIRECT_URL
-```
-```bash
-CORS_ORIGIN
-```
-```bash
-PORT
-```
-For Client:
-```bash
-VITE_BASE_URL
+VITE_BASE_URL=Base URL for API calls
 ```
