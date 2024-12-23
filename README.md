@@ -14,7 +14,9 @@
 - **State Management:** Redux  
 
 ## Screenshots of the Application
-![image](https://github.com/abhijha910/Instinctive-Full-Stack-task-main/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
+
+![Application Screenshot](https://user-images.githubusercontent.com/<unique-id>/<image-name>.png)
+
 
 ---
 
