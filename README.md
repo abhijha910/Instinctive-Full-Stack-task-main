@@ -1,30 +1,43 @@
-# Instinctive_Full_Stack_task
+# Instinctive Full Stack Task
 
-## Key Features
-- **CRUD Operations:** Implemented Create, Read, Update, and Delete functionality for seamless data management.
-- **Table Filtering:** Integrated filtering to enable quick and efficient data exploration.
-- **Redux Integration:** Utilized Redux for efficient and centralized state management during data fetching and updates.
-- **Responsive UI:** Designed a reusable and responsive UI using Tailwind CSS and ShadCN.
-
-## Tech Stacks
-- **Client:** React JS  
-- **Server:** Node JS  
-- **Database:** Supabase  
-- **ORM:** Prisma  
-- **State Management:** Redux  
-
-## Screenshots of the application
-
-![image](https://github.com/user-attachments/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
-
+## Overview
+The **Instinctive Full Stack Task** is a comprehensive CRUD application designed to manage and explore data efficiently. It integrates advanced state management with a modern and responsive UI for a seamless user experience. The project demonstrates the use of a full-stack technology suite, offering robust backend functionality coupled with a dynamic frontend.
 
 ---
 
-## Run Server Locally
+## Key Features
 
-### Clone the Project
+- **CRUD Operations:** Complete implementation of Create, Read, Update, and Delete functionalities for efficient data management.
+- **Table Filtering:** Integrated filtering to allow users to explore and manage data effortlessly.
+- **State Management with Redux:** Leveraged Redux for centralized and efficient state management during data fetching and updates.
+- **Responsive Design:** Built a reusable and responsive UI using **Tailwind CSS** and **ShadCN**, ensuring compatibility across devices.
+
+---
+
+## Tech Stack
+
+- **Frontend:** React JS  
+- **Backend:** Node JS  
+- **Database:** Supabase  
+- **ORM:** Prisma  
+- **State Management:** Redux  
+- **Styling:** Tailwind CSS  
+
+---
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
+
+---
+
+## Running the Project Locally
+
+Follow these steps to set up and run the application on your local machine:
+
+### Clone the Repository
 ```bash
 git clone https://github.com/abhijha910/Instinctive-Full-Stack-task-main.git
+
 
 
 Go to the project directory
