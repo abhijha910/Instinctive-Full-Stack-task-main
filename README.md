@@ -1,4 +1,4 @@
-# InstinctiveStudio_Task
+# Instinctive_Full_Stack_task
 
 ## Key Features
 - **CRUD Operations:** Implemented Create, Read, Update, and Delete functionality for seamless data management.
@@ -7,30 +7,22 @@
 - **Responsive UI:** Designed a reusable and responsive UI using Tailwind CSS and ShadCN.
 
 ## Tech Stacks
+- **Client:** React JS  
+- **Server:** Node JS  
+- **Database:** Supabase  
+- **ORM:** Prisma  
+- **State Management:** Redux  
 
-- **Client:** React JS
-- **Server:** Node JS
-- **Database:** Supabase
-- **ORM:** Prisma
-- **State Management:** Redux
+## Screenshots of the Application
+![image](https://github.com/abhijha910/Instinctive-Full-Stack-task-main/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
 
-## Screenshots of the application
+---
 
-![image](https://github.com/user-attachments/assets/20dbae68-83a9-4771-9f99-b7a3eca67a7b)
+## Run Server Locally
 
-
-
-
-
-
-
-# Run server locally
-
-Clone the project
-
+### Clone the Project
 ```bash
-  git clone https://github.com/durgeshdeo/Instinctive-studio-task.git
-```
+git clone https://github.com/abhijha910/Instinctive-Full-Stack-task-main.git
 
 
 Go to the project directory
