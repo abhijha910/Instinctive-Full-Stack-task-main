@@ -84,19 +84,19 @@ Make sure the following environment variables are set correctly for both the bac
 
 ### For Backend:
 ```bash
-DATABASE_URL=MongoDB connection URL
+DATABASE_URL - MongoDB connection URL
 ```
 ```bash
-DIRECT_URL=Direct connection URL for Prisma
+DIRECT_URL - Direct connection URL for Prisma
 ```
 ```bash
-CORS_ORIGIN=Allowed origins for Cross-Origin Resource Sharing
+CORS_ORIGIN - Allowed origins for Cross-Origin Resource Sharing
 ```
 ```bash
-PORT=Port for the backend server
+PORT - Port for the backend server
 ```
 
 ### For Frontend:
 ```bash
-VITE_BASE_URL=Base URL for API calls
+VITE_BASE_URL - Base URL for API calls
 ```
